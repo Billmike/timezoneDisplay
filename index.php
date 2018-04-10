@@ -18,7 +18,7 @@
         </div>
     </header>
         <main class="timer-body">
-        <div class="jumbotron jumbotron-fluid jumbotronImage">
+        <div class="jumbotron jumbotronImage">
           <h1 class="display-4">Hotels.ng Internship v4</h1>
           <p class="lead">Welcome to now!</p>
         </div>
